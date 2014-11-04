@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mynfc.WiFiDrectActivity" >
+    <item
+        android:id="@+id/direct_enable"
+        android:icon="@drawable/ic_action_on_off"
+        android:title="enable"
+        android:showAsAction="always" />
+
+    <item
+        android:id="@+id/direct_discover"
+        android:icon="@drawable/ic_action_discover"
+        android:title="扫描"
+        android:showAsAction="always" />
+</menu>
